@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.e9a60fed.css",
+    "main.css": "/Portfolio/static/css/main.abc4aa84.css",
     "main.js": "/Portfolio/static/js/main.58bc62aa.js",
     "static/media/AttendanceMonitoring.png": "/Portfolio/static/media/AttendanceMonitoring.d7086aaa6ae96b6e8df7.png",
     "static/media/FakeNews.png": "/Portfolio/static/media/FakeNews.7679bd0e675df56fb074.png",
@@ -9,11 +9,11 @@
     "static/media/Abdul Samad Ansari Mk5.pdf": "/Portfolio/static/media/Abdul Samad Ansari Mk5.97bf0561ecbb4fc50886.pdf",
     "static/media/IntrusionDetection.png": "/Portfolio/static/media/IntrusionDetection.844bb1f6aaebcc54af8a.png",
     "index.html": "/Portfolio/index.html",
-    "main.e9a60fed.css.map": "/Portfolio/static/css/main.e9a60fed.css.map",
+    "main.abc4aa84.css.map": "/Portfolio/static/css/main.abc4aa84.css.map",
     "main.58bc62aa.js.map": "/Portfolio/static/js/main.58bc62aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9a60fed.css",
+    "static/css/main.abc4aa84.css",
     "static/js/main.58bc62aa.js"
   ]
 }
