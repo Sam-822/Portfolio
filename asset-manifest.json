@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.dc557faa.css",
-    "main.js": "/Portfolio/static/js/main.77b828da.js",
+    "main.css": "/Portfolio/static/css/main.e9a60fed.css",
+    "main.js": "/Portfolio/static/js/main.58bc62aa.js",
     "static/media/AttendanceMonitoring.png": "/Portfolio/static/media/AttendanceMonitoring.d7086aaa6ae96b6e8df7.png",
     "static/media/FakeNews.png": "/Portfolio/static/media/FakeNews.7679bd0e675df56fb074.png",
     "static/media/header_img.png": "/Portfolio/static/media/header_img.79af9a19e72e3bb9401e.png",
@@ -9,11 +9,11 @@
     "static/media/Abdul Samad Ansari Mk5.pdf": "/Portfolio/static/media/Abdul Samad Ansari Mk5.97bf0561ecbb4fc50886.pdf",
     "static/media/IntrusionDetection.png": "/Portfolio/static/media/IntrusionDetection.844bb1f6aaebcc54af8a.png",
     "index.html": "/Portfolio/index.html",
-    "main.dc557faa.css.map": "/Portfolio/static/css/main.dc557faa.css.map",
-    "main.77b828da.js.map": "/Portfolio/static/js/main.77b828da.js.map"
+    "main.e9a60fed.css.map": "/Portfolio/static/css/main.e9a60fed.css.map",
+    "main.58bc62aa.js.map": "/Portfolio/static/js/main.58bc62aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc557faa.css",
-    "static/js/main.77b828da.js"
+    "static/css/main.e9a60fed.css",
+    "static/js/main.58bc62aa.js"
   ]
 }
