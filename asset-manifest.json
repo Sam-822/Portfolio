@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Sam-822/Portfolio/static/css/main.3d9ea252.css",
-    "main.js": "/Sam-822/Portfolio/static/js/main.8e977c07.js",
-    "static/media/AttendanceMonitoring.png": "/Sam-822/Portfolio/static/media/AttendanceMonitoring.d7086aaa6ae96b6e8df7.png",
-    "static/media/FakeNews.png": "/Sam-822/Portfolio/static/media/FakeNews.7679bd0e675df56fb074.png",
-    "static/media/header_img.png": "/Sam-822/Portfolio/static/media/header_img.79af9a19e72e3bb9401e.png",
-    "static/media/HealthVault.png": "/Sam-822/Portfolio/static/media/HealthVault.9695e1b7bcc35c87dcac.png",
-    "static/media/Abdul Samad Ansari Mk5.pdf": "/Sam-822/Portfolio/static/media/Abdul Samad Ansari Mk5.97bf0561ecbb4fc50886.pdf",
-    "static/media/IntrusionDetection.png": "/Sam-822/Portfolio/static/media/IntrusionDetection.844bb1f6aaebcc54af8a.png",
-    "index.html": "/Sam-822/Portfolio/index.html",
-    "main.3d9ea252.css.map": "/Sam-822/Portfolio/static/css/main.3d9ea252.css.map",
-    "main.8e977c07.js.map": "/Sam-822/Portfolio/static/js/main.8e977c07.js.map"
+    "main.css": "/Portfolio/static/css/main.3d9ea252.css",
+    "main.js": "/Portfolio/static/js/main.51cf9133.js",
+    "static/media/AttendanceMonitoring.png": "/Portfolio/static/media/AttendanceMonitoring.d7086aaa6ae96b6e8df7.png",
+    "static/media/FakeNews.png": "/Portfolio/static/media/FakeNews.7679bd0e675df56fb074.png",
+    "static/media/header_img.png": "/Portfolio/static/media/header_img.79af9a19e72e3bb9401e.png",
+    "static/media/HealthVault.png": "/Portfolio/static/media/HealthVault.9695e1b7bcc35c87dcac.png",
+    "static/media/Abdul Samad Ansari Mk5.pdf": "/Portfolio/static/media/Abdul Samad Ansari Mk5.97bf0561ecbb4fc50886.pdf",
+    "static/media/IntrusionDetection.png": "/Portfolio/static/media/IntrusionDetection.844bb1f6aaebcc54af8a.png",
+    "index.html": "/Portfolio/index.html",
+    "main.3d9ea252.css.map": "/Portfolio/static/css/main.3d9ea252.css.map",
+    "main.51cf9133.js.map": "/Portfolio/static/js/main.51cf9133.js.map"
   },
   "entrypoints": [
     "static/css/main.3d9ea252.css",
-    "static/js/main.8e977c07.js"
+    "static/js/main.51cf9133.js"
   ]
 }
