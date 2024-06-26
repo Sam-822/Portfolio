@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.128ab0e5.css",
-    "main.js": "/Portfolio/static/js/main.58bc62aa.js",
-    "static/media/AttendanceMonitoring.png": "/Portfolio/static/media/AttendanceMonitoring.d7086aaa6ae96b6e8df7.png",
-    "static/media/FakeNews.png": "/Portfolio/static/media/FakeNews.7679bd0e675df56fb074.png",
-    "static/media/header_img.png": "/Portfolio/static/media/header_img.79af9a19e72e3bb9401e.png",
-    "static/media/HealthVault.png": "/Portfolio/static/media/HealthVault.9695e1b7bcc35c87dcac.png",
+    "main.css": "/Portfolio/static/css/main.268b8de3.css",
+    "main.js": "/Portfolio/static/js/main.609cba11.js",
+    "static/media/AttendanceMonitoring.png": "/Portfolio/static/media/AttendanceMonitoring.72cf356b257f37751cb7.png",
     "static/media/Abdul Samad Ansari Mk5.pdf": "/Portfolio/static/media/Abdul Samad Ansari Mk5.97bf0561ecbb4fc50886.pdf",
-    "static/media/IntrusionDetection.png": "/Portfolio/static/media/IntrusionDetection.844bb1f6aaebcc54af8a.png",
+    "static/media/FakeNews.png": "/Portfolio/static/media/FakeNews.ebc6f0241f9688bd9cf5.png",
+    "static/media/header_img.png": "/Portfolio/static/media/header_img.a71f68e87fef85097add.png",
+    "static/media/HealthVault.png": "/Portfolio/static/media/HealthVault.a99690c833ef4466f045.png",
+    "static/media/IntrusionDetection.png": "/Portfolio/static/media/IntrusionDetection.0bc415b675fced8389d6.png",
     "index.html": "/Portfolio/index.html",
-    "main.128ab0e5.css.map": "/Portfolio/static/css/main.128ab0e5.css.map",
-    "main.58bc62aa.js.map": "/Portfolio/static/js/main.58bc62aa.js.map"
+    "main.268b8de3.css.map": "/Portfolio/static/css/main.268b8de3.css.map",
+    "main.609cba11.js.map": "/Portfolio/static/js/main.609cba11.js.map"
   },
   "entrypoints": [
-    "static/css/main.128ab0e5.css",
-    "static/js/main.58bc62aa.js"
+    "static/css/main.268b8de3.css",
+    "static/js/main.609cba11.js"
   ]
 }
